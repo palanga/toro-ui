@@ -4,7 +4,7 @@ import { mock as LandingsByLocationMock } from "./analytics/widgets/LandingsByLo
 import {
   CssBaseline,
 } from "@material-ui/core"
-import NavigationBar from "./NavigationBar";
+import NavigationBar from "./navigation/NavigationBar";
 
 const mocks =
   [

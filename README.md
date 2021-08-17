@@ -12,6 +12,7 @@
 
 
 - [ ] tablero
+- [ ]  cartita con el nombre de un titulo, precio y variación
 - [ ]  muchos graficos de velita
 - [ ]  menu desplegable con opciones en el grafico
 - [ ]  valor total
