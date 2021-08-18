@@ -4,7 +4,6 @@ import DashboardIcon from "@material-ui/icons/Dashboard"
 import AccountBalanceIcon from "@material-ui/icons/AccountBalance"
 import AccountCircleIcon from "@material-ui/icons/AccountCircle"
 import SearchBar from "./SearchBar"
-import { Expander } from "../layout/Expander";
 
 type WebNavigationBarProps = {
   selectedTab: string,
@@ -19,7 +18,6 @@ export default function WebNavigationBar(props: WebNavigationBarProps) {
         <Toolbar>
           <AccountBalanceIcon style={{marginInlineEnd: 12}}/>
           <Button color="inherit" onClick={() => props.selectTab("home")}><DashboardIcon/></Button>
-          <Expander/>
           <SearchBar/>
           <Button color="inherit" onClick={() => props.selectTab("account")}><AccountCircleIcon/></Button>
         </Toolbar>
