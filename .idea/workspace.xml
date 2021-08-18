@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4784cd-e0a0-4041-85db-19264ec59ee5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/navigation/MobileNavigationBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/WebNavigationBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/Expander.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/RootNavigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/SearchBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/NavigationBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/MobileNavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/MobileNavigationBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/NavigationBar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/WebNavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/WebNavigationBar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

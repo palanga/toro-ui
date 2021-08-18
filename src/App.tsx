@@ -4,7 +4,7 @@ import { mock as LandingsByLocationMock } from "./analytics/widgets/LandingsByLo
 import {
   CssBaseline,
 } from "@material-ui/core"
-import NavigationBar from "./navigation/NavigationBar";
+import RootNavigation from "./navigation/RootNavigation";
 
 const mocks =
   [
@@ -16,7 +16,7 @@ function App() {
     <React.Fragment>
       <CssBaseline/>
       <MockedProvider mocks={mocks} addTypename={false}>
-        <NavigationBar/>
+        <RootNavigation/>
       </MockedProvider>
     </React.Fragment>
   )

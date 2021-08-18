@@ -5,9 +5,10 @@
 - [ ]  escuchar el tema del sistema
 
 
-- [ ] barrita
+- [ ] navegacion
+- [ ]  hay que hacer bien el tema de los tabs
 - [ ]  boton de casita (tablero)
-- [ ]  barra de busqueda (autocompletado)
+- [ ]  barra de busqueda (autocompletado, usar un resorte)
 - [ ]  boton de inicio de sesion/registro/datos personales y configuracion
 
 
