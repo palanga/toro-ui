@@ -1,6 +1,6 @@
 import React from "react"
 import { alpha, createStyles, InputBase, makeStyles, Theme } from "@material-ui/core"
-import SearchIcon from '@material-ui/icons/Search'
+import SearchIcon from "@material-ui/icons/Search"
 
 export default function SearchBar() {
   const classes = useStyles()
