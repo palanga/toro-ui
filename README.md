@@ -1,8 +1,9 @@
 
 - [ ] colores
-- [ ]  tema claro
-- [ ]  tema oscuro
-- [ ]  escuchar el tema del sistema
+- [ ]  colores para las cartitas de cotizacion
+- [x]  tema claro
+- [x]  tema oscuro
+- [x]  escuchar el tema del sistema
 
 
 - [ ] navegacion
@@ -10,6 +11,7 @@
 - [ ]  boton de casita (tablero)
 - [ ]  barra de busqueda (autocompletado, usar un resorte)
 - [ ]  boton de inicio de sesion/registro/datos personales y configuracion
+- [ ]  enrutador
 
 
 - [ ] tablero
